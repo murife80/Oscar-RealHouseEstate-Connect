@@ -23,7 +23,7 @@ Setup Instructions
 
 1. Clone the repository
 2. Navigate to the project directory through a code editor like VS code after cloning
-3. Open in Browser\*\*
+3. Open in Browser
    Open `index.html` in your preferred browser to run the application. The app doesn't require any server setup or backend, as it's a client-side application with in-memory storage.
 4. Agent Registration
    You can register agents by navigating to the Register Agent page in the navigation bar. Once you submit the form with valid agent details, they will be added to the in-memory list, and users can search for them based on their county.
